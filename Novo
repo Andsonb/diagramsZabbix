@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T13:36:25.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7YjLoLsvlS9NgAz0zMKf" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T13:48:11.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NFFqgYgNSvckfiIQMuUo" version="21.2.7" type="github">
   <diagram name="Page-1" id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60">
-    <mxGraphModel dx="6344" dy="3118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5160" dy="2470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -1399,6 +1399,24 @@
         </mxCell>
         <mxCell id="KABw3q6Lll1ubnQQku9P-30" value="server" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;rounded=1;shadow=0;comic=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1930" y="256.5" width="90" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="KABw3q6Lll1ubnQQku9P-36" value="" style="rounded=1;arcSize=50;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-1650" y="-530" width="800" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="KABw3q6Lll1ubnQQku9P-37" value="&lt;span style=&quot;font-size: 58px;&quot;&gt;&lt;font color=&quot;#000066&quot;&gt;Lojas&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="-455" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KABw3q6Lll1ubnQQku9P-43" value="" style="rounded=1;arcSize=50;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="890" y="-530" width="800" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="KABw3q6Lll1ubnQQku9P-41" value="&lt;span style=&quot;font-size: 58px;&quot;&gt;&lt;font color=&quot;#000066&quot;&gt;Servidores&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-455" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KABw3q6Lll1ubnQQku9P-44" value="" style="rounded=1;arcSize=50;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-800" width="800" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="KABw3q6Lll1ubnQQku9P-45" value="&lt;span style=&quot;font-size: 58px;&quot;&gt;&lt;font color=&quot;#000066&quot;&gt;Novo Atacarejo&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="-725" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
