@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T18:33:35.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-se-alscEChVpMpXTQKV" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T18:42:31.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MIBdst2WzD1vqhBn8z1o" version="21.6.3" type="github">
   <diagram name="Page-1" id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60">
     <mxGraphModel dx="4567" dy="2153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-43" value="&lt;font color=&quot;#000066&quot; style=&quot;font-size: 25px;&quot;&gt;011-Gravata&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;verticalAlign=top;fontStyle=1;glass=0;" parent="1" vertex="1">
           <mxGeometry x="-2160" y="530" width="290" height="275" as="geometry" />
         </mxCell>
-        <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-44" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 102);&quot;&gt;WAN 1&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-44" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 102);&quot;&gt;&lt;a href=&quot;https://131.0.227.93/&quot;&gt;WAN 1&lt;/a&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1978" y="561" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-45" value="Fortgate" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;rounded=1;shadow=0;comic=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
@@ -52,7 +52,7 @@
             <mxPoint x="-2040" y="695" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-49" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 102);&quot;&gt;&lt;a style=&quot;border-color: var(--border-color);&quot; href=&quot;https://190.109.80.10/&quot;&gt;WAN 2&lt;/a&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-49" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 102);&quot;&gt;WAN 2&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1978" y="670" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-51" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;h4 style=&quot;&quot;&gt;&lt;br&gt;&lt;/h4&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;verticalAlign=top;fontStyle=1;glass=0;align=left;" parent="1" vertex="1">
@@ -151,7 +151,7 @@
         <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-87" value="&lt;font color=&quot;#000066&quot; style=&quot;font-size: 25px;&quot;&gt;012-Limoeiro&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;verticalAlign=top;fontStyle=1;glass=0;" parent="1" vertex="1">
           <mxGeometry x="-1810" y="530" width="290" height="275" as="geometry" />
         </mxCell>
-        <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-88" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 102);&quot;&gt;WAN 1&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-88" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 102);&quot;&gt;&lt;a href=&quot;https://179.124.141.129/&quot;&gt;WAN 1&lt;/a&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1628" y="561" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-89" value="Fortgate" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;rounded=1;shadow=0;comic=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
@@ -169,7 +169,7 @@
             <mxPoint x="-1690" y="695" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-93" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 102);&quot;&gt;&lt;a style=&quot;border-color: var(--border-color);&quot; href=&quot;https://190.109.80.10/&quot;&gt;WAN 2&lt;/a&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-93" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 102);&quot;&gt;&lt;a href=&quot;https://186.208.231.52/&quot; style=&quot;border-color: var(--border-color);&quot;&gt;WAN 2&lt;/a&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1628" y="670" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-94" value="&lt;font color=&quot;#000066&quot; style=&quot;font-size: 25px;&quot;&gt;017-Muribeca&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;verticalAlign=top;fontStyle=1;glass=0;" parent="1" vertex="1">
@@ -247,7 +247,7 @@
         <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-163" value="&lt;font color=&quot;#000066&quot; style=&quot;font-size: 25px;&quot;&gt;013-Escada&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;verticalAlign=top;fontStyle=1;glass=0;" parent="1" vertex="1">
           <mxGeometry x="-1450" y="530" width="290" height="275" as="geometry" />
         </mxCell>
-        <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-164" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 102);&quot;&gt;WAN 1&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-164" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 102);&quot;&gt;&lt;a href=&quot;https://177.36.14.29/&quot;&gt;WAN 1&lt;/a&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1268" y="561" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-165" value="Fortgate" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;rounded=1;shadow=0;comic=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
@@ -265,7 +265,7 @@
             <mxPoint x="-1330" y="695" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-169" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 102);&quot;&gt;&lt;a style=&quot;border-color: var(--border-color);&quot; href=&quot;https://190.109.80.10/&quot;&gt;WAN 2&lt;/a&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-169" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 102);&quot;&gt;WAN 2&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1268" y="670" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-170" value="&lt;font color=&quot;#000066&quot; style=&quot;font-size: 25px;&quot;&gt;018-Afogados&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;verticalAlign=top;fontStyle=1;glass=0;" parent="1" vertex="1">
@@ -343,7 +343,7 @@
         <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-191" value="&lt;font style=&quot;font-size: 25px;&quot; color=&quot;#000066&quot;&gt;014-Cabo&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;verticalAlign=top;fontStyle=1;glass=0;" parent="1" vertex="1">
           <mxGeometry x="-1100" y="530" width="290" height="275" as="geometry" />
         </mxCell>
-        <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-192" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 102);&quot;&gt;WAN 1&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-192" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 102);&quot;&gt;&lt;a href=&quot;https://177.221.46.5/&quot;&gt;WAN 1&lt;/a&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-918" y="561" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG8DWGZIMX_ZTdaJ7nL-193" value="Fortgate" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;rounded=1;shadow=0;comic=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
