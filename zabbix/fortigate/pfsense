@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T20:15:31.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6QVw-eBQkbZZ8ClwT5kG" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T20:18:08.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RPmJK1Ir8TBIbjdilIRr" version="21.6.5" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
-    <mxGraphModel dx="1151" dy="4030" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1884" dy="4431" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,6 +76,9 @@
         </mxCell>
         <mxCell id="RH_jfpzHYDPtoT3Z-ZK4-26" value="&lt;p style=&quot;border-color: var(--border-color); text-align: left; font-size: 11px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;Relatório de Otimização de Custos com Firewalls: FortiGate e pfSense&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;div&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300.25" y="-3390" width="422" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RH_jfpzHYDPtoT3Z-ZK4-27" value="&lt;b&gt;Custos&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="483" y="-2532" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
