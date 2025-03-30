@@ -55,9 +55,6 @@
         <mxCell id="ceMrEX5YtPSBD2AocW3o-62" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.web_server;" vertex="1" parent="1">
           <mxGeometry x="1114" y="571" width="318" height="315" as="geometry" />
         </mxCell>
-        <mxCell id="ceMrEX5YtPSBD2AocW3o-63" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/desktop-pc-128.png" vertex="1" parent="1">
-          <mxGeometry x="683" y="564" width="311" height="311" as="geometry" />
-        </mxCell>
         <mxCell id="ceMrEX5YtPSBD2AocW3o-64" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
           <mxGeometry x="723" y="179" width="335" height="200" as="geometry" />
         </mxCell>
