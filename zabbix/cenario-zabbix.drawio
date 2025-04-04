@@ -137,13 +137,13 @@
           <mxGeometry x="710" y="652" width="36.55" height="43" as="geometry" />
         </mxCell>
         <mxCell id="eO3I2PJSA5BFwuN0Dlqp-35" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="910" y="468" width="280" height="200" as="geometry" />
+          <mxGeometry x="910" y="488" width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="eO3I2PJSA5BFwuN0Dlqp-37" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.proxy_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="513" width="76.5" height="90" as="geometry" />
+          <mxGeometry x="1025.38" y="555" width="76.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eO3I2PJSA5BFwuN0Dlqp-38" value="&lt;font color=&quot;#ffff00&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Futuro servidor...&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="933.25" y="398" width="246.75" height="46" as="geometry" />
+        <mxCell id="eO3I2PJSA5BFwuN0Dlqp-38" value="&lt;font color=&quot;#ffff00&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Futuro servidor Glpi..&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Servidor:Ubuntu 24.04.2 LTS&lt;/span&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="939.25" y="426" width="260.75" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eO3I2PJSA5BFwuN0Dlqp-39" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.563;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eO3I2PJSA5BFwuN0Dlqp-35" target="eO3I2PJSA5BFwuN0Dlqp-38">
           <mxGeometry relative="1" as="geometry">
