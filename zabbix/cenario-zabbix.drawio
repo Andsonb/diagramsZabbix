@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="2852" dy="1578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1127" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -49,7 +49,7 @@
         <mxCell id="eO3I2PJSA5BFwuN0Dlqp-4" value="&lt;font style=&quot;font-size: 19px; color: rgb(255, 255, 0);&quot;&gt;Servidor:Ubuntu 24.04.2 LTS Docker &lt;br&gt;IP: 10.4.41.1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="422" width="250" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="eO3I2PJSA5BFwuN0Dlqp-6" value="Firewall:&lt;br&gt;Fortgate&lt;br&gt;&lt;br&gt;RedesLan:&lt;br&gt;VLANs:" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.firewall;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="eO3I2PJSA5BFwuN0Dlqp-6" value="Firewall:&lt;br&gt;Fortgate&lt;br&gt;IP:&amp;nbsp;172.16.20.1&lt;br&gt;RedesLan:&lt;br&gt;VLANs:" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.firewall;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="196.64" y="1094.75" width="75" height="93" as="geometry" />
         </mxCell>
         <mxCell id="eO3I2PJSA5BFwuN0Dlqp-7" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;entryX=-0.014;entryY=0.244;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.031;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eO3I2PJSA5BFwuN0Dlqp-6" target="6a7d8f32e03d9370-26">
