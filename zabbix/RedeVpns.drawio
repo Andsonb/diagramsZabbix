@@ -7,7 +7,7 @@
         <mxCell id="vXIsHff3W-B7BgybX8nb-214" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=0;fillColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="70.5" y="513.5" width="195" height="86.5" as="geometry" />
         </mxCell>
-        <mxCell id="vXIsHff3W-B7BgybX8nb-213" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=238.25;flipH=1;fillColor=#1A1A1A;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="vXIsHff3W-B7BgybX8nb-213" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=238.25;flipH=1;fillColor=#333333;strokeColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="493" y="68" width="665" height="715" as="geometry" />
         </mxCell>
         <mxCell id="vXIsHff3W-B7BgybX8nb-211" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=238.25;fillColor=#333333;strokeColor=#333333;" vertex="1" parent="1">
@@ -19,16 +19,10 @@
         <mxCell id="vXIsHff3W-B7BgybX8nb-102" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=238.25;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-911" y="45" width="672" height="711" as="geometry" />
         </mxCell>
-        <mxCell id="1c7a67bf8fd3230f-50" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;entryX=0.506;entryY=0.968;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="vXIsHff3W-B7BgybX8nb-1" target="vXIsHff3W-B7BgybX8nb-216" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="197" y="417.365217391304" as="sourcePoint" />
-            <mxPoint x="255.3238866396764" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1c7a67bf8fd3230f-13" value="WAN 1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-124" y="68" width="240" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="1c7a67bf8fd3230f-14" value="WAN 2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#1A1A1A;" parent="1" vertex="1">
+        <mxCell id="1c7a67bf8fd3230f-14" value="WAN 2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="144" y="76.5" width="256" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vXIsHff3W-B7BgybX8nb-1" value="Fortinet&amp;nbsp;&lt;br&gt;FGT60" style="shape=mxgraph.cisco.security.firewall;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
@@ -522,10 +516,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vXIsHff3W-B7BgybX8nb-215" value="WAN 1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-114" y="78" width="240" height="174" as="geometry" />
+          <mxGeometry x="-129" y="49" width="240" height="174" as="geometry" />
         </mxCell>
         <mxCell id="vXIsHff3W-B7BgybX8nb-216" value="WAN 2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="154" y="86.5" width="256" height="160" as="geometry" />
+          <mxGeometry x="141" y="63" width="256" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1c7a67bf8fd3230f-50" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="vXIsHff3W-B7BgybX8nb-1" target="vXIsHff3W-B7BgybX8nb-216" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="197" y="417.365217391304" as="sourcePoint" />
+            <mxPoint x="255.3238866396764" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
